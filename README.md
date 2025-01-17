@@ -8,9 +8,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Houses's%20Alien-141321?style=flat-square&logo=Discord&logoColor=d83a7c&link=https://discord.gg/nHgHJtg3re)](https://discord.gg/nHgHJtg3re)
 
 <p1 align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=radical&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=radical&border_radius=0&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180" alt="GitHub Streak">
 </p1>
 <p1 align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=christopherrissardi&theme=radical" alt="GitHub Trophies">
