@@ -29,6 +29,10 @@
 ![Flask](https://img.shields.io/badge/flask-141321.svg?style=for-the-badge&logo=flask&logoColor=d83a7c) 
 ![SQLite](https://img.shields.io/badge/sqlite-141321.svg?style=for-the-badge&logo=sqlite&logoColor=d83a7c) 
 ![docker](https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=d83a7c) 
+![Insomnia](https://img.shields.io/badge/Insomnia-141321?style=for-the-badge&logo=insomnia&logoColor=d83a7c) 
+![git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=d83a7c) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-141321?style=for-the-badge&logo=openai&logoColor=d83a7c) 
+
 ## ⭐ Technologies I've Experimented With
 
 ![Kali](https://img.shields.io/badge/Kali-141321?style=for-the-badge&logo=kalilinux&logoColor=d83a7c) 
@@ -57,9 +61,6 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-141321?style=for-the-badge&logo=proxmox&logoColor=d83a7c) 
 ![AWS](https://img.shields.io/badge/AWS-141321.svg?style=for-the-badge&logo=amazonwebservices&logoColor=d83a7c)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-141321.svg?style=for-the-badge&logo=google-cloud&logoColor=d83a7c) 
-![Insomnia](https://img.shields.io/badge/Insomnia-141321?style=for-the-badge&logo=insomnia&logoColor=d83a7c) 
-![git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=d83a7c) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-141321?style=for-the-badge&logo=openai&logoColor=d83a7c) 
 ![OTHERS](https://img.shields.io/badge/AND_OTHERS...-141321?style=for-the-badge&logo=&logoColor=d83a7c) 
 
 ## 🚀 Interests & Goals
