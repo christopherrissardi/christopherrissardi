@@ -22,52 +22,45 @@
 
 *I am a passionate **information security and programming enthusiast**, always eager to learn and explore more. Although I don't work formally in the field, my **hobby projects** are focused on **cybersecurity**, where I enjoy exploring various tools and techniques.*
 
+## ☘️ Technology used in my daily life
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-141321?style=for-the-badge&logo=ubuntu&logoColor=d83a7c) 
+![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=d83a7c) 
+![Flask](https://img.shields.io/badge/flask-141321.svg?style=for-the-badge&logo=flask&logoColor=d83a7c) 
+![SQLite](https://img.shields.io/badge/sqlite-141321.svg?style=for-the-badge&logo=sqlite&logoColor=d83a7c) 
+![docker](https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=d83a7c) 
 ## ⭐ Technologies I've Experimented With
 
-### Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-141321?style=for-the-badge&logo=linux&logoColor=d83a7c) 
 ![Kali](https://img.shields.io/badge/Kali-141321?style=for-the-badge&logo=kalilinux&logoColor=d83a7c) 
 ![Shell Script](https://img.shields.io/badge/shell_script-141321.svg?style=for-the-badge&logo=gnu-bash&logoColor=d83a7c) 
 ![Metasploit](https://img.shields.io/badge/Metasploit-141321?style=for-the-badge&logo=metasploit&logoColor=d83a7c) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-141321?style=for-the-badge&logo=Wireshark&logoColor=d83a7c) 
 ![ngrok](https://img.shields.io/badge/ngrok-141321?style=for-the-badge&logo=ngrok&logoColor=d83a7c) 
+![cryptomator](https://img.shields.io/badge/cryptomator-141321?style=for-the-badge&logo=cryptomator&logoColor=d83a7c)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-141321?style=for-the-badge&logo=burpsuite&logoColor=d83a7c) 
 ![Google Dorks](https://img.shields.io/badge/Google%20Dorks-141321?style=for-the-badge&logo=google&logoColor=d83a7c) 
 ![NMAP](https://img.shields.io/badge/NMAP-141321?style=for-the-badge&logo=alienware&logoColor=d83a7c) 
 ![Pi-Hole](https://img.shields.io/badge/Pi_hole-141321?style=for-the-badge&logo=pihole&logoColor=d83a7c) 
 ![Tor](https://img.shields.io/badge/Tor-141321?style=for-the-badge&logo=torproject&logoColor=d83a7c) 
-![OSINT](https://img.shields.io/badge/OSINT-141321?style=for-the-badge&logo=framework&logoColor=d83a7c) 
-![flatpak](https://img.shields.io/badge/flatpak-141321?style=for-the-badge&logo=hackthebox&logoColor=d83a7c) 
-![cryptomator](https://img.shields.io/badge/cryptomator-141321?style=for-the-badge&logo=cryptomator&logoColor=d83a7c) 
 ![tryhackme](https://img.shields.io/badge/tryhackme-141321?style=for-the-badge&logo=tryhackme&logoColor=d83a7c) 
 ![hackthebox](https://img.shields.io/badge/hackthebox-141321?style=for-the-badge&logo=hackthebox&logoColor=d83a7c) 
-![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=d83a7c) 
 ![selenium](https://img.shields.io/badge/selenium-141321?style=for-the-badge&logo=selenium&logoColor=d83a7c) 
 ![Pandas](https://img.shields.io/badge/pandas-141321.svg?style=for-the-badge&logo=pandas&logoColor=d83a7c) 
 ![Perl](https://img.shields.io/badge/perl-141321.svg?style=for-the-badge&logo=perl&logoColor=d83a7c) 
-![PHP](https://img.shields.io/badge/php-141321.svg?style=for-the-badge&logo=php&logoColor=d83a7c) 
-![C#](https://img.shields.io/badge/c%23-141321.svg?style=for-the-badge&logo=c&logoColor=d83a7c) 
 ![HTML5](https://img.shields.io/badge/html5-141321.svg?style=for-the-badge&logo=html5&logoColor=d83a7c) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-141321?style=for-the-badge&logo=mariadb&logoColor=d83a7c) 
-![SQLite](https://img.shields.io/badge/sqlite-141321.svg?style=for-the-badge&logo=sqlite&logoColor=d83a7c) 
-![docker](https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=d83a7c) 
-![Flask](https://img.shields.io/badge/flask-141321.svg?style=for-the-badge&logo=flask&logoColor=d83a7c) 
+![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=d83a7c) 
 ![Nginx](https://img.shields.io/badge/nginx-141321.svg?style=for-the-badge&logo=nginx&logoColor=d83a7c) 
 ![Apache](https://img.shields.io/badge/apache-141321.svg?style=for-the-badge&logo=apache&logoColor=d83a7c) 
-![Firebase](https://img.shields.io/badge/firebase-141321.svg?style=for-the-badge&logo=firebase&logoColor=d83a7c) 
 ![Virtualbox](https://img.shields.io/badge/Virtualbox-141321?style=for-the-badge&logo=virtualbox&logoColor=d83a7c) 
 ![Vmware](https://img.shields.io/badge/Vmware-141321?style=for-the-badge&logo=vmware&logoColor=d83a7c) 
 ![Proxmox](https://img.shields.io/badge/Proxmox-141321?style=for-the-badge&logo=proxmox&logoColor=d83a7c) 
-![OpenStack](https://img.shields.io/badge/OpenStack-141321?style=for-the-badge&logo=openstack&logoColor=d83a7c)
 ![AWS](https://img.shields.io/badge/AWS-141321.svg?style=for-the-badge&logo=amazonwebservices&logoColor=d83a7c)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-141321.svg?style=for-the-badge&logo=google-cloud&logoColor=d83a7c) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-141321?style=for-the-badge&logo=insomnia&logoColor=d83a7c) 
 ![git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=d83a7c) 
-![RapidAPI](https://img.shields.io/badge/Rapid_Api-141321?style=for-the-badge&logo=rapid&logoColor=d83a7c) 
-![Markdown](https://img.shields.io/badge/markdown-141321.svg?style=for-the-badge&logo=markdown&logoColor=d83a7c) 
-![Gemini](https://img.shields.io/badge/Gemini-141321?style=for-the-badge&logo=googlegemini&logoColor=d83a7c)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-141321?style=for-the-badge&logo=openai&logoColor=d83a7c) 
-![Perplexity](https://img.shields.io/badge/Perplexity-141321?style=for-the-badge&logo=perplexity&logoColor=d83a7c) 
+![OTHERS](https://img.shields.io/badge/AND_OTHERS...-141321?style=for-the-badge&logo=&logoColor=d83a7c) 
 
 ## 🚀 Interests & Goals
 
