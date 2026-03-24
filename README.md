@@ -1,74 +1,60 @@
-
 # Christopher Rissardi
 
-[![Linkedin Badge](https://img.shields.io/badge/-Christopher%20Rissardi-141321?style=flat-square&logo=Linkedin&logoColor=d83a7c&link=https://www.linkedin.com/in/christopher-r-3293762b2/)](https://www.linkedin.com/in/christopher-r-3293762b2/)
-[![Discord Badge](https://img.shields.io/badge/-@offalien-141321?style=flat-square&logo=Discord&logoColor=d83a7c&link=https://discord.com/users/589502565243289612)](https://discord.com/users/589502565243289612)
-[![TryHackMe Badge](https://img.shields.io/badge/-alienxv-141321?style=flat-square&logo=TryHackMe&logoColor=d83a7c&link=https://tryhackme.com/p/alienxv)](https://tryhackme.com/p/alienxv)
-[![GitHub Badge](https://img.shields.io/badge/-christopherrissardi-141321?style=flat-square&logo=GitHub&logoColor=d83a7c&link=https://github.com/christopherrissardi)](https://github.com/christopherrissardi)
-[![Discord Badge](https://img.shields.io/badge/-Houses's%20Alien-141321?style=flat-square&logo=Discord&logoColor=d83a7c&link=https://discord.gg/nHgHJtg3re)](https://discord.gg/nHgHJtg3re)
+<div align="center">
+  <h3><i>Software Developer | Security Engineer</i></h3>
 
-<p1 align="center">
-  <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=radical&border_radius=0&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180" alt="GitHub Streak">
-</p1>
-<p1 align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christopherrissardi&theme=radical" alt="GitHub Trophies">
-</p1>
+  [![Linkedin Badge](https://img.shields.io/badge/-Christopher%20Rissardi-000000?style=flat-square&logo=Linkedin&logoColor=a&link=https://www.linkedin.com/in/christopher-r-3293762b2/)](https://www.linkedin.com/in/christopher-r-3293762b2/)
+  [![GitHub Badge](https://img.shields.io/badge/-christopherrissardi-000000?style=flat-square&logo=GitHub&logoColor=3DDA83&link=https://github.com/christopherrissardi)](https://github.com/christopherrissardi)
+  [![Discord Badge](https://img.shields.io/badge/-Houses's%20Alien-000000?style=flat-square&logo=Discord&logoColor=3DDA83&link=https://discord.gg/nHgHJtg3re)](https://discord.gg/nHgHJtg3re)
 
-
-
-<h3 align="center"><i>Cybersecurity Engineer & Development Enthusiast</i></h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=android-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 <br>
 
-*I am a passionate **information security and programming enthusiast**, always eager to learn and explore more. Although I don't work formally in the field, my **hobby projects** are focused on **cybersecurity**, where I enjoy exploring various tools and techniques.*
+I am a **Software Developer** with a strong focus on **Information Security**. I believe that writing great code goes hand in hand with writing *secure* code. My daily journey involves building applications, automating workflows, and constantly exploring how to protect scalable systems against modern vulnerabilities.
 
-## ☘️ Technology used in my daily life
+---
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-141321?style=for-the-badge&logo=ubuntu&logoColor=d83a7c) 
-![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=d83a7c) 
-![Flask](https://img.shields.io/badge/flask-141321.svg?style=for-the-badge&logo=flask&logoColor=d83a7c) 
-![SQLite](https://img.shields.io/badge/sqlite-141321.svg?style=for-the-badge&logo=sqlite&logoColor=d83a7c) 
-![docker](https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=d83a7c) 
-![Insomnia](https://img.shields.io/badge/Insomnia-141321?style=for-the-badge&logo=insomnia&logoColor=d83a7c) 
-![git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=d83a7c) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-141321?style=for-the-badge&logo=openai&logoColor=d83a7c) 
+## 💻 Tech Stack & Tools
 
-## ⭐ Technologies I've Experimented With
+Below is a categorized overview of the technologies I work with on a daily basis:
 
-![Kali](https://img.shields.io/badge/Kali-141321?style=for-the-badge&logo=kalilinux&logoColor=d83a7c) 
-![Shell Script](https://img.shields.io/badge/shell_script-141321.svg?style=for-the-badge&logo=gnu-bash&logoColor=d83a7c) 
-![Metasploit](https://img.shields.io/badge/Metasploit-141321?style=for-the-badge&logo=metasploit&logoColor=d83a7c) 
-![Wireshark](https://img.shields.io/badge/Wireshark-141321?style=for-the-badge&logo=Wireshark&logoColor=d83a7c) 
-![ngrok](https://img.shields.io/badge/ngrok-141321?style=for-the-badge&logo=ngrok&logoColor=d83a7c) 
-![cryptomator](https://img.shields.io/badge/cryptomator-141321?style=for-the-badge&logo=cryptomator&logoColor=d83a7c)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-141321?style=for-the-badge&logo=burpsuite&logoColor=d83a7c) 
-![Google Dorks](https://img.shields.io/badge/Google%20Dorks-141321?style=for-the-badge&logo=google&logoColor=d83a7c) 
-![NMAP](https://img.shields.io/badge/NMAP-141321?style=for-the-badge&logo=alienware&logoColor=d83a7c) 
-![Pi-Hole](https://img.shields.io/badge/Pi_hole-141321?style=for-the-badge&logo=pihole&logoColor=d83a7c) 
-![Tor](https://img.shields.io/badge/Tor-141321?style=for-the-badge&logo=torproject&logoColor=d83a7c) 
-![tryhackme](https://img.shields.io/badge/tryhackme-141321?style=for-the-badge&logo=tryhackme&logoColor=d83a7c) 
-![hackthebox](https://img.shields.io/badge/hackthebox-141321?style=for-the-badge&logo=hackthebox&logoColor=d83a7c) 
-![selenium](https://img.shields.io/badge/selenium-141321?style=for-the-badge&logo=selenium&logoColor=d83a7c) 
-![Pandas](https://img.shields.io/badge/pandas-141321.svg?style=for-the-badge&logo=pandas&logoColor=d83a7c) 
-![Perl](https://img.shields.io/badge/perl-141321.svg?style=for-the-badge&logo=perl&logoColor=d83a7c) 
-![HTML5](https://img.shields.io/badge/html5-141321.svg?style=for-the-badge&logo=html5&logoColor=d83a7c) 
-![MariaDB](https://img.shields.io/badge/MariaDB-141321?style=for-the-badge&logo=mariadb&logoColor=d83a7c) 
-![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=d83a7c) 
-![Nginx](https://img.shields.io/badge/nginx-141321.svg?style=for-the-badge&logo=nginx&logoColor=d83a7c) 
-![Apache](https://img.shields.io/badge/apache-141321.svg?style=for-the-badge&logo=apache&logoColor=d83a7c) 
-![Virtualbox](https://img.shields.io/badge/Virtualbox-141321?style=for-the-badge&logo=virtualbox&logoColor=d83a7c) 
-![Vmware](https://img.shields.io/badge/Vmware-141321?style=for-the-badge&logo=vmware&logoColor=d83a7c) 
-![Proxmox](https://img.shields.io/badge/Proxmox-141321?style=for-the-badge&logo=proxmox&logoColor=d83a7c) 
-![AWS](https://img.shields.io/badge/AWS-141321.svg?style=for-the-badge&logo=amazonwebservices&logoColor=d83a7c)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-141321.svg?style=for-the-badge&logo=google-cloud&logoColor=d83a7c) 
-![OTHERS](https://img.shields.io/badge/AND_OTHERS...-141321?style=for-the-badge&logo=&logoColor=d83a7c) 
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3DDA83)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=3DDA83)
+![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=3DDA83)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=3DDA83)
+![SQLite](https://img.shields.io/badge/SQLite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=3DDA83)
+![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=3DDA83)
+![Shell Script](https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=3DDA83)
 
-## 🚀 Interests & Goals
+### ☁️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=3DDA83)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=3DDA83)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=3DDA83)
+
+
+### 🛡️ Security & Testing
+![BurpSuite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=3DDA83)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=3DDA83)
+![NMAP](https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=alienware&logoColor=3DDA83)
+
+### ☁️ Other stacks I've used
+
+![Nginx](https://img.shields.io/badge/nginx-000000.svg?style=for-the-badge&logo=nginx&logoColor=3DDA83)
+![Selenium](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium&logoColor=3DDA83)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=3DDA83)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=3DDA83)
+
+---
+
+## 🦖 Focus & Current Goals
 
 I’m currently learning about:
 
-- 🛸 **Ethical Hacking** and **Penetration Testing** techniques.
-- 🧠 **Offensive Security** strategies and **cloud security** with **AWS**.
-- 👾 Engaging in **Capture the Flag (CTF)** challenges to sharpen my cybersecurity skills.
-- 🕦 Working on automating tasks using **Python**.
+- 🌱 **Secure Software Development:** Integrating security best practices directly into the codebase.
+- ☁️ **Cloud Architecture:** Learning to build and secure scalable infrastructures, currently exploring **AWS**.
+- 🦎 **Automation:** Developing scripts and tools with **Python** to solve everyday problems efficiently.
 
