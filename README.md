@@ -1,8 +1,8 @@
 # Christopher Rissardi
 
 <div align="center">
-  <h3><i>Software Developer | Security Engineer</i></h3>
-  <h5><i>Connect with me:</i></h5>
+  <h2><i>Software Developer | Security Engineer</i></h2>
+  <h4><i>Connect with me:</i></h4>
 
   <a href="https://github.com/christopherrissardi" target="_blank"><img src="https://cdn.simpleicons.org/github/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
   <a href="https://discord.gg/nHgHJtg3re" target="_blank"><img src="https://cdn.simpleicons.org/discord/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
