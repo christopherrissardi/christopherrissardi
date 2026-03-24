@@ -2,10 +2,12 @@
 
 <div align="center">
   <h3><i>Software Developer | Security Engineer</i></h3>
+  <h5><i>Connect with me:</i></h5>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Christopher%20Rissardi-000000?style=flat-square&logo=Linkedin&logoColor=a&link=https://www.linkedin.com/in/christopher-r-3293762b2/)](https://www.linkedin.com/in/christopher-r-3293762b2/)
-  [![GitHub Badge](https://img.shields.io/badge/-christopherrissardi-000000?style=flat-square&logo=GitHub&logoColor=3DDA83&link=https://github.com/christopherrissardi)](https://github.com/christopherrissardi)
-  [![Discord Badge](https://img.shields.io/badge/-Houses's%20Alien-000000?style=flat-square&logo=Discord&logoColor=3DDA83&link=https://discord.gg/nHgHJtg3re)](https://discord.gg/nHgHJtg3re)
+  <a href="https://github.com/christopherrissardi" target="_blank"><img src="https://cdn.simpleicons.org/github/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/nHgHJtg3re" target="_blank"><img src="https://cdn.simpleicons.org/discord/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
+  <a href="mailto:cristopherrissardi10@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
+  <br>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=android-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
@@ -47,6 +49,7 @@ Below is a categorized overview of the technologies I work with on a daily basis
 ![Selenium](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium&logoColor=3DDA83)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=3DDA83)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=3DDA83)
+![Perl](https://img.shields.io/badge/Perl-000000?style=for-the-badge&logo=perl&logoColor=3DDA83)
 
 ---
 
