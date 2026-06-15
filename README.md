@@ -3,12 +3,6 @@
 <div align="center">
   <h2><i>Software Developer | Security Engineer</i></h2>
   <h4><i>Connect with me:</i></h4>
-
-  <a href="https://github.com/christopherrissardi" target="_blank"><img src="https://cdn.simpleicons.org/github/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="mailto:cristopherrissardi10@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/nHgHJtg3re" target="_blank"><img src="https://cdn.simpleicons.org/discord/3DDA83" width="40" height="40"></a>&nbsp;&nbsp;
-  <br>
-
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=android-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
   </a>
