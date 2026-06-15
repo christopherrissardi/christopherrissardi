@@ -2,7 +2,6 @@
 
 <div align="center">
   <h2><i>Software Developer | Security Engineer</i></h2>
-  <h4><i>Connect with me:</i></h4>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=christopherrissardi&theme=android-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=850&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
   </a>
