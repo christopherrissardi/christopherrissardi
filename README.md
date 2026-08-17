@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://github.com/christopherrissardi">
-    <img width="420" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" />
+    <img width="320" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
