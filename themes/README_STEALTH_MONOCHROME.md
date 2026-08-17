@@ -18,25 +18,6 @@
 
 </div>
 
-<br>
-
-## ⚙️ Executive Summary
-
-```bash
-$ identity --whoami
-Christopher Rissardi
-
-$ identity --role
-Software Developer & Security Engineer
-
-$ identity --stack
-Go | Python | React | Next.js | Flask | Docker | AWS | PostgreSQL | Linux
-
-$ identity --directive
-"Architecting robust full-stack applications with strict security rigor, clean abstractions, and high throughput."
-```
-
----
 
 ## 🛠️ Stack & Technologies
 
