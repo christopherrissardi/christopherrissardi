@@ -4,20 +4,36 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=680&height=45&lines=Software+Developer+%26+Security+Engineer;Full-Stack+Engineering+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Next.js;DevSecOps+%E2%80%A2+Cloud+Architecture+%E2%80%A2+AppSec;Engineering+Resilient%2C+High-Performance+Software)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://linkedin.com/in/christopherrissardi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:christopher.rissardi@example.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/christopherrissardi">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+</div>
+
+<br>
+
+## 📊 Analytics & Activity
+
+<div align="center">
+
+  <a href="https://github.com/christopherrissardi">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/christopherrissardi">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/christopherrissardi">
+    <img width="850" src="https://streak-stats.demolab.com?user=christopherrissardi&theme=custom&background=09090B&border=27272A&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&border_radius=10&card_width=850&card_height=195&hide_current_streak=false" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/christopherrissardi">
+    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherrissardi&bg_color=09090B&color=FFFFFF&line=FFFFFF&point=E4E4E7&area=true&hide_border=false&border=27272A&border_radius=10" alt="Activity Graph" />
+  </a>
 
 </div>
 
+---
 
 ## 🛠️ Stack & Technologies
 
@@ -63,33 +79,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-182736?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/NMAP-253B80?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-
-</div>
-
----
-
-## 📊 Analytics & Activity
-
-<div align="center">
-
-  <a href="https://github.com/christopherrissardi">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/christopherrissardi">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/christopherrissardi">
-    <img width="850" src="https://streak-stats.demolab.com?user=christopherrissardi&theme=custom&background=09090B&border=27272A&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&border_radius=10&card_width=850&card_height=185&hide_current_streak=false" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/christopherrissardi">
-    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherrissardi&bg_color=09090B&color=FFFFFF&line=FFFFFF&point=E4E4E7&area=true&hide_border=false&border=27272A&border_radius=10" alt="Activity Graph" />
-  </a>
 
 </div>
 
