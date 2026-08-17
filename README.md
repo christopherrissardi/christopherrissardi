@@ -13,8 +13,8 @@
 <div align="center">
 
   <p align="center">
-    <a href="https://github.com/christopherrissardi"><img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" /></a>
-    <a href="https://github.com/christopherrissardi"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" /></a>
+    <a href="https://github.com/christopherrissardi"><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" /></a>
+    <a href="https://github.com/christopherrissardi"><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" /></a>
   </p>
 
   <a href="https://github.com/christopherrissardi">
