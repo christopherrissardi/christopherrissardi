@@ -13,16 +13,16 @@
 <div align="center">
 
   <p align="center">
-    <a href="https://github.com/christopherrissardi"><img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" /></a>
-    <a href="https://github.com/christopherrissardi"><img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10" alt="Top Languages" /></a>
+    <a href="https://github.com/christopherrissardi"><img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopherrissardi&show_icons=true&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&rank_icon=github&count_private=true" alt="GitHub Stats" /></a>
+    <a href="https://github.com/christopherrissardi"><img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopherrissardi&layout=compact&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&bg_color=09090B&border_color=27272A&border_radius=10&card_width=370" alt="Top Languages" /></a>
   </p>
 
   <a href="https://github.com/christopherrissardi">
-    <img width="820" src="https://streak-stats.demolab.com?user=christopherrissardi&theme=custom&background=09090B&border=27272A&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&border_radius=10&card_width=820&card_height=195&hide_current_streak=false" alt="GitHub Streak" />
+    <img width="850" src="https://streak-stats.demolab.com?user=christopherrissardi&theme=custom&background=09090B&border=27272A&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E4E4E7&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A&border_radius=10&card_width=850&card_height=195&hide_current_streak=false" alt="GitHub Streak" />
   </a>
   <br>
   <a href="https://github.com/christopherrissardi">
-    <img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherrissardi&bg_color=09090B&color=FFFFFF&line=FFFFFF&point=E4E4E7&area=true&hide_border=false&border=27272A&border_radius=10" alt="Activity Graph" />
+    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherrissardi&bg_color=09090B&color=FFFFFF&line=FFFFFF&point=E4E4E7&area=true&hide_border=false&border=27272A&border_radius=10" alt="Activity Graph" />
   </a>
 
 </div>
